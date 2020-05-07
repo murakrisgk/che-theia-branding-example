@@ -3,7 +3,7 @@ metadata:
 projects:
   - name: che-cheia-branding-example
     source:
-      location: 'https://github.com/che-samples/che-theia-branding-example.git'
+      location: 'https://github.com/murakrisgk/che-theia-branding-example.git'
       type: git
       branch: master
 components:

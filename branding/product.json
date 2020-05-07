@@ -1,22 +1,22 @@
 {
-    "name": "Red Hat CodeReady Workspaces",
+    "name": "EagleView CodePod Platform",
     "icon": "codeready-workspaces-icon.png",
     "logo": {
         "dark": "codeready-workspaces-logo-light.png",
         "light": "codeready-workspaces-logo-dark.png"
     },
     "welcome": {
-        "title": "Welcome to Your Workspace",
+        "title": "Welcome to Your EagleView CodePod Workspace",
         "links": ["website", "documentation"]
     },
     "links": {
         "website": {
-            "name": "Discover CodeReady Workspaces",
-            "url": "https://developers.redhat.com/products/codeready-workspaces/overview"
+            "name": "Explore EagleView CodePod Workspaces",
+            "url": "https://eagleviewcorp.atlassian.net/wiki/spaces/ENGR/blog/2020/05/07/267587058/Accelerating+DevOps"
         },
         "documentation": {
             "name": "Browse Documentation",
-            "url": "https://www.redhat.com/docs"
+            "url": "https://eagleviewcorp.atlassian.net/wiki/spaces/ENGR/blog/2020/05/07/267587058/Accelerating+DevOps"
         }
     }
 }
